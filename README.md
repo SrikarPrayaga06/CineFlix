@@ -13,7 +13,7 @@
 ### App Walkthough GIF
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="https://recordit.co/Eq3Qwu8CZd" width=250><br>
+<img src="http://g.recordit.co/Eq3Qwu8CZd.gif" width=250><br>
 
 ### Notes
 No major issues thanks to the amazing TA Ritik Raina!
